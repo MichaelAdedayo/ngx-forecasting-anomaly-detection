@@ -123,6 +123,6 @@ Seaborn, Jupyter Notebook, SQL, Power BI
 
 ## Author
 
-Michael Adedayo — [LinkedIn] · [GitHub]
+Michael Iseoluwa Adedayo — [LinkedIn] · [GitHub]
 
-*This project extends the analytical foundation of my undergraduate thesis, "Volatility Prediction Using Machine Learning Models: A Case Study of the Nigerian Exchange Group (NGX)."*
+*This project extends the analytical foundation of my undergraduate research project or thesis, "Volatility Prediction Using Machine Learning Models: A Case Study of the Nigerian Exchange Group (NGX)."*
